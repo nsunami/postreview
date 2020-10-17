@@ -1,0 +1,3 @@
+[submodule "themes/xmag"]
+	path = themes/xmag
+	url = https://github.com/5jt/hugo-xmag
