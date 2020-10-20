@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Hugo XMag"
+title: "Postreview"
 theme: "xmag"
 googleAnalytics: ""
 disqusShortname: ""
@@ -32,9 +32,9 @@ menu:
       url: /index.xml
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 - 2020 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
-  github_edit: "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
+  description: "A webiste under construction"
+  footer: "&copy; Postreview "
+  github_edit: "https://github.com/nsunami/postreview"
   summary_length: 300
   text:
     back: "&larr; Back to Home"
