@@ -34,7 +34,7 @@ menu:
 params:
   description: "A webiste under construction"
   footer: "&copy; Postreview "
-  github_edit: "https://github.com/nsunami/postreview"
+  github_edit: "https://github.com/nsunami/postreview/tree/main/content/"
   summary_length: 300
   text:
     back: "&larr; Back to Home"
