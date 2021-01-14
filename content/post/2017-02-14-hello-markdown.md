@@ -14,6 +14,8 @@ tags:
   - Pandoc
   - RStudio
 toc: true
+draft: True
+
 ---
 
 This sample post is mainly for [**blogdown**](https://github.com/rstudio/blogdown) users. If you do not use **blogdown**, you can skip the first section. To know more about the Hugo XMag theme, please read the [About](/about/) page.
