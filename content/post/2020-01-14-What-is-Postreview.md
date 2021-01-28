@@ -1,6 +1,8 @@
 ---
 title: What is Postreview?
-author: Anton Lebed and Nami Sunami
+author:
+  - Anton Lebed
+  - Nami Sunami
 date: '2021-01-01'
 categories:
   - Annoucements
