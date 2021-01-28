@@ -3,11 +3,12 @@ title: Review of "XXXXX", Journal of XXX
 author: Taro Yamada
 date: '2020-01-01'
 categories:
-  - Reviews
+  - Review
 tags:
   - Belonging
   - Social Rejection
 thumbnail:
+draft: True
 ---
 
 # Postreview Score
