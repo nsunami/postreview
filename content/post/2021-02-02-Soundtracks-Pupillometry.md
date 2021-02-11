@@ -1,5 +1,5 @@
 ---
-title: "Postreview: How Soundtracks Shape What We See: Analyzing the Influence of Music on Visual Scenes Through Self-Assessment, Eye Tracking, and Pupillometry"
+title: "How Soundtracks Shape What We See: Analyzing the Influence of Music on Visual Scenes Through Self-Assessment, Eye Tracking, and Pupillometry"
 author: Angel Jimenez, Ph.D.
 date: '2021-02-02'
 categories:
