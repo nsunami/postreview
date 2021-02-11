@@ -1,5 +1,5 @@
 ---
-title: Postreview Review Rubrics v0.1
+title: Review Rubrics v0.1
 author:
   - Anton Lebed
   - Nami Sunami
