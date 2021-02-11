@@ -1,22 +1,48 @@
 ---
-title: Git commits to Jeff Leek
-author: Martin J Frigaard
-date: '2015-07-25'
+title: "Postreview: How Soundtracks Shape What We See: Analyzing the Influence of Music on Visual Scenes Through Self-Assessment, Eye Tracking, and Pupillometry"
+author: Angel Jimenez, Ph.D.
+date: '2021-07-25'
 categories:
-  - Tech
+  - "Postreview"
 tags:
-  - Markdown
-  - Lorem Ipsum
-thumbnail: https://db.yihui.org/images/git-diff-gui.png
-draft: True
+  - Music
+  - Cognitive Psychology
+thumbnail:
+draft: False
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://drive.google.com/drive/u/1/folders/103fg439qpQ6U4QO7vrrxd2lSuIxZm90o))
 
-Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.
+# Review Rubric
 
-> Sed luctus volutpat sem in dapibus. Ut pellentesque vitae magna ac mattis. Sed vestibulum, nulla at condimentum semper, magna quam posuere dui, quis sagittis enim nisi eget ex. Vivamus tempor erat a sem dapibus porta. Fusce varius dapibus tempus. Nam bibendum dignissim fringilla. Phasellus eu justo facilisis, ullamcorper urna in, feugiat mauris. Quisque dignissim purus vitae ullamcorper scelerisque. Sed at magna at nisi consequat euismod. Curabitur justo ex, efficitur in fermentum luctus, tincidunt nec lectus. Aliquam a neque metus. Etiam nulla nunc, tristique vitae accumsan ullamcorper, placerat eget nunc. Cras porta eleifend dolor maximus molestie. Etiam vitae pellentesque turpis, quis accumsan ligula. Mauris auctor, nisi nec ullamcorper pulvinar, libero magna sagittis enim, sollicitudin dignissim urna justo et tortor.
+| Section                              | Item                                  |  Rating (out of 4)|
+|---------------------------------------|------------------------------------------------------------------------------------------------|---|
+| Abstract                              | How well are the key findings summarized in a narrative form?                                  |   3|
+| Introduction: previous studies        | How thoroughly are the relevant contemporary studies summarized? Is their relevance explained? |   4|
+| Introduction: research question       | Is the focal research question clearly laid out in the introduction?                           |   2|
+| Method: sampling (overall)            | How well are the sampling specifications stated?                                               |   3|
+| Method: conditions                    | How explicitly is the design stated? Are the resulting conditions listed and described?        |   3|
+| Method: procedure                     | How thoroughly is the procedure described?                                                     |   3|
+| Results: analytic strategy            | How well is the analytic strategy described?                                                   |   4|
+| Results: analyses output              | How well are the results of the statistical analyses described?                                |   4|
+| Discussion: hypotheses                | How well do the authors articulate whether the data supported the hypotheses or not?           |   2|
+| Discussion: relation to other studies | How well are the results discussed in the context of relevant contemporary studies?            |   3|
+| Discussion: limitations               | Are the limitations of the paper discussed in sufficient detail?                               |   4|
+| Discussion: implications              | Are the implications sufficiently explored?                                                    |   3|
+|               |                                                   **Overall** |   38/48|
 
-Morbi non sem euismod, suscipit purus id, gravida velit. Quisque mollis luctus ligula non suscipit. Curabitur massa arcu, aliquam ac dolor a, pellentesque dignissim dui. Donec at vestibulum magna. Quisque fermentum, tortor id sodales egestas, ligula ligula interdum ipsum, et volutpat elit massa vitae nibh. Morbi eleifend libero quis pretium viverra. Etiam congue, velit ac vestibulum finibus, velit nibh fringilla purus, eu semper dui est eu nunc. Etiam feugiat scelerisque diam vitae sodales. Etiam luctus in urna eu lobortis. Nam vestibulum eros et nibh elementum ullamcorper. Nam tristique porttitor orci, nec pretium est vestibulum at. Quisque posuere semper orci, vel semper justo commodo sed. Nullam accumsan risus rhoncus fringilla porta. Morbi interdum condimentum pharetra. Donec eu elit quam. Vivamus eleifend posuere mi, vel accumsan urna sollicitudin ut.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla nec nunc felis. Sed bibendum vel leo id semper. Maecenas vitae iaculis ante. Nam ut tempor est, eu molestie augue. Quisque tincidunt sagittis odio sed tristique. Aenean et felis quis mi viverra consequat.
+# Review
+
+
+The abstract clearly describes the main findings of the two studies reported. However, the authors could have been more concise in describing their findings and could have provided more details about the rationale for their studies, the hypotheses, and the experimental design.
+
+The authors provide a thorough review of the literature on how music affects the interpretation of audiovisuals. They start discussing the general aspects of the topic to continue with the specifics. The authors clearly identify the problems in the literature, which they try to solve with their experiments. The research question and the hypotheses are clearly stated. However, the hypotheses are not presented in the introduction. They are presented in the Methods section at the same time as the authors are presenting the materials. The clarity of the article could have been enhanced by presenting the hypotheses earlier on.
+
+The authors describe the gender and age of participants and inform the reader that they used a convenient sample: online participants recruited through Amazon Mechanical Turk. It is understandable that they used online participants as they want to ensure the ecological validity of their study at the same time they want to infer cause-effect relationships between variables. Nevertheless, the information about the participant recruitment is presented in different places in the text instead of all at once at the beginning of the methods section. The study is a between-subjects experimental design with two experimental conditions and the control condition. The design is clearly presented but the number of participants in each condition is missing. The procedure is succinctly presented and clear details about the scales used to measure the different constructs are given.
+
+Again, however, the order of presentation of the information is confusing as it is presented in an unconventional way: the authors describe the procedure before the materials and explain the materials at the same time as the hypotheses.
+
+The analytic strategy is clearly presented. They start discussing the exclusion criteria they implemented to ensure the quality of the data provided by the online participants. They provide measures of the reliability of the scales used to measure the different constructs, and the selection of statistical techniques is appropriate for their research questions. The authors should be praised for how they report their statistical analyses. They provide descriptive statistics (means and standard deviations) for the variables of interest as well as appropriate significant tests, effect sizes, and statistical power for each of their tests.
+
+The authors present the main findings and discuss their implications. However, they do not provide an explicit statement about whether each of their five hypotheses was supported by the results or not. The authors connect well their findings with the results of other studies. However, they do not provide enough discussion in relation to other studies for the finding that was contrary to their expectation, i.e. the hypothesis that the music was going to influence the affective state attributed to the main character of the audiovisuals. They suggest this finding might have been the consequence of the scales they used but they do not discuss how the results might have been different in light of the literature if they would have used different scales. The authors are exhaustive in describing all the potential limitations of their study and ways to address them in future research. The authors discuss how their studies show that music helps people to interpret an ambiguous audiovisual scene. They also emphasize how they have solved some of the problems previously identified by other authors in the literature and provide new directions for future research.
