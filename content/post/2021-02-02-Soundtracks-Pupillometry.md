@@ -17,18 +17,22 @@ Note: The review was conducted using reviewing guideline X. ResearchHub helped t
 
 | Section                              | Item                                  |  Rating (out of 4)|
 |---------------------------------------|------------------------------------------------------------------------------------------------|---|
-| Abstract                              | How well are the key findings summarized in a narrative form?                                  |   3|
-| Introduction: previous studies        | How thoroughly are the relevant contemporary studies summarized? Is their relevance explained? |   4|
-| Introduction: research question       | Is the focal research question clearly laid out in the introduction?                           |   2|
-| Method: sampling (overall)            | How well are the sampling specifications stated?                                               |   3|
-| Method: conditions                    | How explicitly is the design stated? Are the resulting conditions listed and described?        |   3|
-| Method: procedure                     | How thoroughly is the procedure described?                                                     |   3|
-| Results: analytic strategy            | How well is the analytic strategy described?                                                   |   4|
-| Results: analyses output              | How well are the results of the statistical analyses described?                                |   4|
-| Discussion: hypotheses                | How well do the authors articulate whether the data supported the hypotheses or not?           |   2|
-| Discussion: relation to other studies | How well are the results discussed in the context of relevant contemporary studies?            |   3|
-| Discussion: limitations               | Are the limitations of the paper discussed in sufficient detail?                               |   4|
-| Discussion: implications              | Are the implications sufficiently explored?                                                    |   3|
+| **Abstract**                              | How well are the key findings summarized in a narrative form?                                  |   3|
+| **Introduction** |
+|  - Previous studies        | How thoroughly are the relevant contemporary studies summarized? Is their relevance explained? |   4|
+| - Research question       | Is the focal research question clearly laid out in the introduction?                           |   2|
+| **Method** |
+| - Sampling (overall)            | How well are the sampling specifications stated?                                               |   3|
+| - Conditions                    | How explicitly is the design stated? Are the resulting conditions listed and described?        |   3|
+| - Procedure                     | How thoroughly is the procedure described?                                                     |   3|
+| **Results** |
+| - Analytic strategy            | How well is the analytic strategy described?                                                   |   4|
+| - Analyses output              | How well are the results of the statistical analyses described?                                |   4|
+| **Discussion** |
+| - Hypotheses                | How well do the authors articulate whether the data supported the hypotheses or not?           |   2|
+| - Relation to other studies | How well are the results discussed in the context of relevant contemporary studies?            |   3|
+| - Limitations               | Are the limitations of the paper discussed in sufficient detail?                               |   4|
+| - Implications              | Are the implications sufficiently explored?                                                    |   3|
 |               |                                                   **Overall** |   38/48|
 
 
