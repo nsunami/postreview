@@ -11,7 +11,7 @@ thumbnail:
 draft: False
 ---
 
-Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://drive.google.com/drive/u/1/folders/103fg439qpQ6U4QO7vrrxd2lSuIxZm90o))
+Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
 
 # Review Rubric
 
