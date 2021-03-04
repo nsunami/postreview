@@ -3,7 +3,7 @@ title: Review Rubrics v0.2
 author:
   - Anton Lebed
   - Nami Sunami
-date: '2021-3-04'
+date: '2021-03-04'
 categories:
   - Documentation
 tags:
