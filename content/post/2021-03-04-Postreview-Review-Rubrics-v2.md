@@ -1,5 +1,5 @@
 ---
-title: Review Rubrics v0.2
+title: Reviewing Guidelines v0.2
 author:
   - Anton Lebed
   - Nami Sunami
