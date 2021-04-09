@@ -3,16 +3,16 @@ title: Reviewing Guidelines v0.2
 author:
   - Anton Lebed
   - Nami Sunami
-date: '2021-03-04'
+date: '2021-04-09'
 categories:
   - Documentation
 tags:
-  - For Reviewers
+  - Reviews
 thumbnail:
 ---
 
-Below is the Postreview Reviewing Rubric. The rubric is intended to evaluate a already-published paper.
-To submit post-review use this link: https://forms.gle/duaU1KifW3KGCGCKA
+Below is the Postreview of paper X
+DOI: X
 
 -----
 # Reviewing Guide
