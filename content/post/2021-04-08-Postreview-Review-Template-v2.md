@@ -1,7 +1,8 @@
 ---
 title: Review Template v0.2
-author: PostReview MEGASCORE 9000
-
+author:
+  - Anton Lebed
+  - Nami Sunami
 date: '2021-04-09'
 categories:
   - Documentation
@@ -9,10 +10,9 @@ tags:
   - Reviews
 thumbnail:
 ---
-Reviewed by: X
 Below is the Postreview of paper X
 DOI: X
-
+#PostReview score - 10/10 - AMAZING!
 -----
 
 # Digest of the Paper
