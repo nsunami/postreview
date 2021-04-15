@@ -12,7 +12,7 @@ thumbnail:
 ---
 Below is the Postreview of paper X
 DOI: X
-#PostReview score - 10/10 - AMAZING!
+# PostReview score - 10/10 - AMAZING!
 -----
 
 # Digest of the Paper
