@@ -30,7 +30,6 @@ X
 
 
 
-**Note that questions will be posted on ResearchHub with your name. You will earn RSC if people answer your questions.**
 
 
 # Rubric
