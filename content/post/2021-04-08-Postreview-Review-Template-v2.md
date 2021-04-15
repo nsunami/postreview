@@ -17,22 +17,22 @@ DOI: X
 -----
 
 # Digest of the Paper
-### Question
+#### Question
 X
-### Rationale
+#### Rationale
 X
-### Results
+#### Results
 X
-### Conclusion & implications
+#### Conclusion & implications
 X
 ## Verdict
 X
 
 # Forward Thinking Questions
-### Conceptual questions:
+#### Conceptual questions
 X
 
-### Method questions:
+#### Method questions
 X
 
 # Quantitative assessment
