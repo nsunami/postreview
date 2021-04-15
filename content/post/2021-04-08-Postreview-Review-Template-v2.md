@@ -29,13 +29,13 @@ X
 X
 
 # Forward Thinking Questions
-###Conceptual questions:
+### Conceptual questions:
 X
 
-###Method questions:
+### Method questions:
 X
 
-# Quantitative assessment 
+# Quantitative assessment
 | Item # | Section                               | Items                                                                                          | Additional notes                                                                                                                                                                                                                                                           | Reviewer score|
 |--------|---------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | 1      | Title                                 | How informative and appropriate is the title?                                                  | The title should match the content of the paper and should never be misleading                                                                                                                                                                                             |        X      |
