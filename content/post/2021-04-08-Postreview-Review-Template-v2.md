@@ -16,25 +16,26 @@ DOI: X
 
 -----
 
-## Digest of the Paper
+# Digest of the Paper
+### Question
 X
-
+### Rationale
+X
+### Results
+X
+### Conclusion & implications
+X
 ## Verdict
 X
 
-### Forward Thinking Questions
-Conceptual questions:
+# Forward Thinking Questions
+###Conceptual questions:
 X
 
-
-Method questions:
+###Method questions:
 X
 
-
-
-
-
-# Rubric
+# Quantitative assessment 
 | Item # | Section                               | Items                                                                                          | Additional notes                                                                                                                                                                                                                                                           | Reviewer score|
 |--------|---------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | 1      | Title                                 | How informative and appropriate is the title?                                                  | The title should match the content of the paper and should never be misleading                                                                                                                                                                                             |        X      |
