@@ -1,5 +1,5 @@
 ---
-title: What is Postreview?
+title: What is PostReview?
 author:
   - Anton Lebed
   - Nami Sunami
@@ -11,11 +11,11 @@ tags:
 thumbnail: False
 ---
 
-Welcome to **Postreview**!
+Welcome to **PostReview**!
 Traditional peer-review publishing doesn't always guarantee a high-quality of a paper. Because of this we need a system where experts can evaluate papers in their field.
-Here you can share your opinion on the papers you have read. 
+Here you can share your opinion on the papers you have read.
 
-Found a particularly low-quality paper in a high-profile journal? We would like to hear about that! 
+Found a particularly low-quality paper in a high-profile journal? We would like to hear about that!
 
 Found a fantastic paper and wish more scientists would read this overlooked gem? We would **love** to hear about that!
 

@@ -1,11 +1,11 @@
 ---
-title: About Postreview
+title: About PostReview
 author:
   - Anton Lebed
   - Nami Sunami
 ---
 
-Welcome to **Postreview**!
+Welcome to **PostReview**!
 Traditional peer-review publishing doesn't always guarantee a high-quality of a paper. Because of this we need a system where experts can evaluate papers in their field.
 Here you can share your opinion on the papers you have read.
 

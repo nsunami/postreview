@@ -11,7 +11,7 @@ tags:
 thumbnail:
 ---
 
-Below is the Postreview Reviewing Rubric. The rubric is intended to evaluate a already-published paper.
+Below is the PostReview Reviewing Rubric. The rubric is intended to evaluate a already-published paper.
 To submit post-review use this link: https://forms.gle/duaU1KifW3KGCGCKA
 
 -----

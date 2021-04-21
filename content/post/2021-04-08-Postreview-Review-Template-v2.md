@@ -10,7 +10,7 @@ tags:
   - Reviews
 thumbnail:
 ---
-Below is the Postreview of paper X
+Below is the PostReview of paper X
 
 
 DOI: X

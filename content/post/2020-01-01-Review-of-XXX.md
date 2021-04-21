@@ -11,7 +11,7 @@ thumbnail:
 draft: True
 ---
 
-# Postreview Score
+# PostReview Score
 
 ## Overall Score
 8.5/10

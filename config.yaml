@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Postreview"
+title: "PostReview"
 theme: "xmag"
 googleAnalytics: ""
 disqusShortname: ""
@@ -33,7 +33,7 @@ menu:
 
 params:
   description: "A webiste under construction"
-  footer: "&copy; Postreview"
+  footer: "&copy; PostReview"
   github_edit: "https://github.com/nsunami/postreview/tree/main/content/"
   summary_length: 300
   text:
