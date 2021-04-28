@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://postreview.org"
 languageCode: "en-us"
 title: "PostReview"
 theme: "Blonde"
