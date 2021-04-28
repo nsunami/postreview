@@ -1,7 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
 title: "PostReview"
-theme: "xmag"
+theme: "Blonde"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
@@ -19,29 +19,55 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: Submit a Review
+      url: /submit_review/
+      weight: 1.5
+    # - name: Documentations
+    #   url: /documentations/
+    #   weight: 1.6
+    - name: Support Project
+      url: /support_project/
+      weight: 1.7
     - name: About
       url: /about/
       weight: 2
-    - name: Categories
-      url: /categories/
-      weight: 3
-    - name: Tags
-      url: /tags/
-      weight: 4
-    - name: Subscribe
-      url: /index.xml
+    # - name: Categories
+    #   url: /categories/
+    #   weight: 3
+    # - name: Tags
+    #   url: /tags/
+    #   weight: 4
+    # - name: Subscribe
+    #   url: /index.xml
 
+# Xmag params
+# params:
+#   description: "A webiste under construction"
+#   footer: "&copy; PostReview"
+#   github_edit: "https://github.com/nsunami/postreview/tree/main/content/"
+#   summary_length: 300
+#   text:
+#     back: "&larr; Back to Home"
+#     edit: "Edit this page &rarr;"
+#     truncated: "&hellip;"
+# --------
 params:
-  description: "A webiste under construction"
-  footer: "&copy; PostReview"
-  github_edit: "https://github.com/nsunami/postreview/tree/main/content/"
-  summary_length: 300
-  text:
-    back: "&larr; Back to Home"
-    edit: "Edit this page &rarr;"
-    truncated: "&hellip;"
+  paginator_pages: '5'
+  archive_dropdown: 'false'
+  tagsLimit: 20
+  post:
+    thumbnail_height: h-48
+    thumbnail_width: w-auto
+  widgets:
+    archives: true
+    categories: true
+    tags: true
+    recentposts: false
+    search: true
+
+
 
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
