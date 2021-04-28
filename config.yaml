@@ -20,13 +20,13 @@ menu:
       url: /
       weight: 1
     - name: Submit a Review
-      url: /submit_review/
+      url: /submit-review/
       weight: 1.5
     # - name: Documentations
     #   url: /documentations/
     #   weight: 1.6
     - name: Support Project
-      url: /support_project/
+      url: /support-project/
       weight: 1.7
     - name: About
       url: /about/
