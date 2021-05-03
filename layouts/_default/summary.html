@@ -1,0 +1,28 @@
+<div class="w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 hover4">
+    {{ if .Params.image }}
+    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ .Params.image | relURL }}" />
+
+    {{/* Greater than 0, less than or equal to  39*/}}
+    {{ else if eq (gt .Params.rating 0) (le .Params.rating 39) }}
+    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/red.png" | relURL }}">
+    {{ else if eq (gt .Params.rating 39) (le .Params.rating 59) }}
+    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/orange.png" | relURL }}">
+    {{ else if eq (gt .Params.rating 59) (le .Params.rating 79) }}
+    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/yellow.png" | relURL }}">
+    <div class="text-sm text-gray-600"> {{.Params.rating}}</div>
+    {{ else if eq (gt .Params.rating 79) (le .Params.rating 100) }}
+    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/green.png" | relURL }}">
+
+
+    {{ else }}
+    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/default.jpg" | relURL }}">
+    {{ end }}
+    <div
+        class="bg-white pl-4 p-2 justify-between leading-normal max-w-full w-full">
+            <p class="text-sm text-gray-600 flex items-center">
+                <time><span class="icon-access_time mr-1"></span>{{.Date.Format "2006/01/02"}}</time>
+            </p>
+            <div class="text-gray-900 font-bold text-xl mb-2">{{.Title}}</div>
+            <p class="text-gray-700 text-base">{{ substr .Summary 0 130 | plainify }}...</p>
+    </div>
+</div>
