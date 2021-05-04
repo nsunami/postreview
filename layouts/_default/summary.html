@@ -8,8 +8,10 @@
     {{ else if eq (gt .Params.rating 39) (le .Params.rating 59) }}
     <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/orange.png" | relURL }}">
     {{ else if eq (gt .Params.rating 59) (le .Params.rating 79) }}
+    <div class="container-rating">
     <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/yellow.png" | relURL }}">
-    <div class="text-sm text-gray-600"> {{.Params.rating}}</div>
+    <div class="centered rating-text">{{.Params.rating}}</div>
+    </div>
     {{ else if eq (gt .Params.rating 79) (le .Params.rating 100) }}
     <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/green.png" | relURL }}">
 
