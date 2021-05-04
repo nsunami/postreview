@@ -3,7 +3,7 @@ title: "(Review 2) How Soundtracks Shape What We See: Analyzing the Influence of
 author: Nazish Idrees Chaudhary, Ph.D.
 date: '2021-02-02'
 categories:
-  - "PostReview"
+  - "Review"
 tags:
   - Music
   - Cognitive Psychology

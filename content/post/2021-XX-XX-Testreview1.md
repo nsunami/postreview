@@ -2,7 +2,7 @@
 title: "TEST"
 date: '2021-02-02'
 categories:
-  - "PostReview"
+  - "Review"
 tags:
   - Music
   - Cognitive Psychology

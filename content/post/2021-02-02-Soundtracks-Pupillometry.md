@@ -3,7 +3,7 @@ title: "(Review 1) How Soundtracks Shape What We See: Analyzing the Influence of
 author: Angel Jimenez, Ph.D.
 date: '2021-02-02'
 categories:
-  - "PostReview"
+  - "Review"
 tags:
   - Music
   - Cognitive Psychology
