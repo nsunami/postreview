@@ -35,6 +35,11 @@
                 <time><span class="icon-access_time mr-1"></span>{{.Date.Format "2006/01/02"}}</time>
             </p>
             <div class="text-gray-900 font-bold text-xl mb-2">{{.Title}}</div>
+            {{ if .Params.summary }}
+            <p class="text-gray-700 text-base">{{ substr .Params.summary 0 130 | plainify }}...</p>
+            {{ else }}
             <p class="text-gray-700 text-base">{{ substr .Summary 0 130 | plainify }}...</p>
+            {{ end }}
+
     </div>
 </div>

@@ -43,8 +43,6 @@ params:
     recentposts: false
     search: true
 
-
-
 markup:
   goldmark:
     renderer:

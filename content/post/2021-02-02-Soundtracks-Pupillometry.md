@@ -10,6 +10,8 @@ tags:
 thumbnail:
 rating: 79
 draft: False
+summary: The authors present the main findings and discuss their implications. However, they do not provide an explicit statement about whether each of their five hypotheses was supported by the results or not. The authors connect well their findings with the results of other studies. However, they do not provide enough discussion in relation to other studies for the finding that was contrary to their expectation, i.e. the hypothesis that the music was going to influence the affective state attributed to the main character of the audiovisuals. They suggest this finding might have been the consequence of the scales they used but they do not discuss how the results might have been different in light of the literature if they would have used different scales. The authors are exhaustive in describing all the potential limitations of their study and ways to address them in future research. The authors discuss how their studies show that music helps people to interpret an ambiguous audiovisual scene. They also emphasize how they have solved some of the problems previously identified by other authors in the literature and provide new directions for future research.
+
 ---
 
 Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
