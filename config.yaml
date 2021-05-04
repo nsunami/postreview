@@ -22,42 +22,20 @@ menu:
     - name: Submit a Review
       url: /submit-review/
       weight: 1.5
-    # - name: Documentations
-    #   url: /documentations/
-    #   weight: 1.6
     - name: Support Project
       url: /support-project/
       weight: 1.7
     - name: About
       url: /about/
       weight: 2
-    # - name: Categories
-    #   url: /categories/
-    #   weight: 3
-    # - name: Tags
-    #   url: /tags/
-    #   weight: 4
-    # - name: Subscribe
-    #   url: /index.xml
-
-# Xmag params
-# params:
-#   description: "A webiste under construction"
-#   footer: "&copy; PostReview"
-#   github_edit: "https://github.com/nsunami/postreview/tree/main/content/"
-#   summary_length: 300
-#   text:
-#     back: "&larr; Back to Home"
-#     edit: "Edit this page &rarr;"
-#     truncated: "&hellip;"
-# --------
+# Blonde Paramss
 params:
   paginator_pages: '5'
   archive_dropdown: 'false'
   tagsLimit: 20
   post:
     thumbnail_height: h-48
-    thumbnail_width: w-auto
+    thumbnail_width: w-48
   widgets:
     archives: true
     categories: true

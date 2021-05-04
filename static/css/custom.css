@@ -1,4 +1,56 @@
-/* 
+/*
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+
+/* For the Rating Thumbnail =================================== */
+/* Text */
+.rating-text {
+  font-size: 4em;
+  color: black;
+}
+
+/* Container holding the image and the text */
+.container-rating {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 15rem;
+  height: 13rem;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
