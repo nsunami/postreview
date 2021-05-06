@@ -26,3 +26,5 @@ fields:
 - type: textarea
   name: summary
   label: summary
+pages:
+- content/post/how-to-pet-a-dragon.md
