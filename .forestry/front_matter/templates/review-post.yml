@@ -1,0 +1,28 @@
+---
+label: Review Post
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: thumbnail
+  label: thumbnail
+- type: number
+  name: rating
+  label: rating
+- type: textarea
+  name: summary
+  label: summary
