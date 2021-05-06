@@ -1,19 +1,22 @@
 ---
-title: "(Review 2) How Soundtracks Shape What We See: Analyzing the Influence of Music on Visual Scenes Through Self-Assessment, Eye Tracking, and Pupillometry"
+title: 'How Soundtracks Shape What We See: Analyzing the Influence of Music on Visual
+  Scenes Through Self-Assessment, Eye Tracking, and Pupillometry'
 author: Nazish Idrees Chaudhary, Ph.D.
-date: '2021-02-02'
+date: 2021-02-02
 categories:
-  - "Review"
+- Review
 tags:
-  - Music
-  - Cognitive Psychology
-thumbnail:
-rating: 79
-draft: False
-summary: Implications are vaguely added within the conclusion of the study. It blurs the accurate and tough description of the study’s conclusion. This fails to elicit critical thoughts and overview about the possibilities for future programs and policies with the directions all the variables investigation of the study possibly suggest. No recommendations are accurately perceived.
+- Music
+- Cognitive Psychology
+thumbnail: 
+rating: "79"
+summary: Implications are vaguely added within the conclusion of the study. It blurs
+  the accurate and tough description of the study’s conclusion. This fails to elicit
+  critical thoughts and overview about the possibilities for future programs and policies
+  with the directions all the variables investigation of the study possibly suggest.
+  No recommendations are accurately perceived.
 
 ---
-
 Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
 
 # Review Rubric
