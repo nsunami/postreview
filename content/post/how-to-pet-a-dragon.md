@@ -13,7 +13,7 @@ Below is the PostReview of paper X
 
 DOI: X
 
-# PostReview score - 10/10 - AMAZING!
+# PostReview score - 100/100 - AMAZING!
 
 ***
 
