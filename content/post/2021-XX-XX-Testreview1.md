@@ -1,19 +1,23 @@
 ---
-title: "TEST"
-date: '2021-02-02'
+title: TEST
+date: 2021-02-02
 categories:
-  - "Review"
+- Review
 tags:
-  - Music
-  - Cognitive Psychology
-thumbnail:
-rating: 90
-draft: False
-summary: Nulla volutpat augue eget nulla ultrices, id tincidunt ex fermentum. Sed efficitur neque vitae ligula dapibus tincidunt. Donec sed nulla semper, tempor justo sit amet, luctus dolor. Praesent facilisis nisl sed odio venenatis, a commodo orci malesuada. Nam cursus at orci et tristique. Maecenas et cursus tellus, vitae imperdiet arcu. Proin elementum est sed est luctus, in fringilla lectus ornare. Pellentesque in ante neque. Ut sagittis mattis pellentesque. Etiam vehicula porttitor nisl ut rhoncus. Aliquam lobortis libero lectus. Duis vel eros est. Quisque tempus aliquam iaculis. Morbi eu pulvinar leo, at mattis urna.
-
+- Music
+- Cognitive Psychology
+thumbnail: 
+rating: "40"
+summary: Nulla volutpat augue eget nulla ultrices, id tincidunt ex fermentum. Sed
+  efficitur neque vitae ligula dapibus tincidunt. Donec sed nulla semper, tempor justo
+  sit amet, luctus dolor. Praesent facilisis nisl sed odio venenatis, a commodo orci
+  malesuada. Nam cursus at orci et tristique. Maecenas et cursus tellus, vitae imperdiet
+  arcu. Proin elementum est sed est luctus, in fringilla lectus ornare. Pellentesque
+  in ante neque. Ut sagittis mattis pellentesque. Etiam vehicula porttitor nisl ut
+  rhoncus. Aliquam lobortis libero lectus. Duis vel eros est. Quisque tempus aliquam
+  iaculis. Morbi eu pulvinar leo, at mattis urna.
 
 ---
-
 Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
 
 # Review Rubric
