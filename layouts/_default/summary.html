@@ -1,26 +1,24 @@
 <div class="w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 hover4">
     {{ if .Params.image }}
     <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ .Params.image | relURL }}" />
-
-    {{/* Greater than 0, less than or equal to  39*/}}
+    {{/* Render Colored Boxes Corresponding with Scores */}}
     {{ else if eq (gt .Params.rating 0) (le .Params.rating 39) }}
     <div class="container-rating">
-      <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/red.png" | relURL }}">
+      <div class="container-rating" style = "background-color:red;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
     {{ else if eq (gt .Params.rating 39) (le .Params.rating 59) }}
     <div class="container-rating">
-      <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/orange.png" | relURL }}">
+      <div class="container-rating" style = "background-color:orange;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
     {{ else if eq (gt .Params.rating 59) (le .Params.rating 79) }}
-    <div class="container-rating">
-    <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/yellow.png" | relURL }}">
+    <div class="container-rating" style = "background-color:yellow;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
     {{ else if eq (gt .Params.rating 79) (le .Params.rating 100) }}
     <div class="container-rating">
-      <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/ratings/green.png" | relURL }}">
+      <div class="container-rating" style = "background-color:green;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
 
