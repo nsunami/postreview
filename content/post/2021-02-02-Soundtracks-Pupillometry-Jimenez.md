@@ -8,7 +8,7 @@ categories:
 tags:
 - Music
 - Cognitive Psychology
-thumbnail: 
+thumbnail:
 rating: "79"
 summary: The authors present the main findings and discuss their implications. However,
   they do not provide an explicit statement about whether each of their five hypotheses
