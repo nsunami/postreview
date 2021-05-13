@@ -21,9 +21,6 @@
       <div class="container-rating" style = "background-color:green;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
-
-
-
     {{ else }}
     <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/default.jpg" | relURL }}">
     {{ end }}
@@ -33,7 +30,10 @@
                 <time><span class="icon-access_time mr-1"></span>{{.Date.Format "2006/01/02"}}</time>
             </p>
             <div class="text-gray-900 font-bold text-xl mb-2">{{.Title}}</div>
-            {{ if .Params.summary }}
+            {{/* Summary to Reviewed by */}}
+            {{ if in .Params.categories "Review" }}
+            <p class="text-gray-700 text-base">Reviewed by {{ .Params.author }}</p>
+            {{ else if .Params.summary }}
             <p class="text-gray-700 text-base">{{ substr .Params.summary 0 130 | plainify }}...</p>
             {{ else }}
             <p class="text-gray-700 text-base">{{ substr .Summary 0 130 | plainify }}...</p>

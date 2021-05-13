@@ -1,6 +1,6 @@
 ---
 title: 'How Soundtracks Shape What We See: Analyzing the Influence of Music on Visual
-  Scenes Through Self-Assessment, Eye Tracking, and Pupillometry'
+  Scenes Through Self-Assessment, Eye Tracking, and Pupillometry - Chaundhary'
 author: Nazish Idrees Chaudhary, Ph.D.
 date: 2021-02-02
 categories:
@@ -8,38 +8,41 @@ categories:
 tags:
 - Music
 - Cognitive Psychology
-thumbnail: 
-rating: "79"
+thumbnail:
+
 summary: Implications are vaguely added within the conclusion of the study. It blurs
   the accurate and tough description of the study’s conclusion. This fails to elicit
   critical thoughts and overview about the possibilities for future programs and policies
   with the directions all the variables investigation of the study possibly suggest.
   No recommendations are accurately perceived.
+# Ratings
+## Rubric Settings
+rubric_version: 1
+rating_min: 1
+rating_max: 4
+rating_total_max: 48
+## Reviewer Scores
+rating: "79"
 
+ratings:
+  abstract: 3
+  previous_studies: 3
+  res_question: 4
+  sampling: 3
+  conditions: 4
+  procedure: 3
+  analytic_strategy: 4
+  analysis_output: 4
+  hypothesis: 2
+  relation: 3
+  limitations: 4
+  implications: 3
 ---
 Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
 
-# Review Rubric
+# PostReview Score
 
-| Section                              | Item                                  |  Rating (out of 4)|
-|---------------------------------------|------------------------------------------------------------------------------------------------|---|
-| **Abstract**                              | How well are the key findings summarized in a narrative form?                                  |   2|
-| **Introduction** |
-|  - Previous studies        | How thoroughly are the relevant contemporary studies summarized? Is their relevance explained? |   3|
-| - Research question       | Is the focal research question clearly laid out in the introduction?                           |   4|
-| **Method** |
-| - Sampling (overall)            | How well are the sampling specifications stated?                                               |   3|
-| - Conditions                    | How explicitly is the design stated? Are the resulting conditions listed and described?        |   4|
-| - Procedure                     | How thoroughly is the procedure described?                                                     |   4|
-| **Results** |
-| - Analytic strategy            | How well is the analytic strategy described?                                                   |   4|
-| - Analyses output              | How well are the results of the statistical analyses described?                                |   4|
-| **Discussion** |
-| - Hypotheses                | How well do the authors articulate whether the data supported the hypotheses or not?           |   3|
-| - Relation to other studies | How well are the results discussed in the context of relevant contemporary studies?            |   2|
-| - Limitations               | Are the limitations of the paper discussed in sufficient detail?                               |   1|
-| - Implications              | Are the implications sufficiently explored?                                                    |   1|
-|               |                                                   **Overall** |   38/48|
+{{< review-table >}}
 
 
 # Review

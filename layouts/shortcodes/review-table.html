@@ -1,0 +1,146 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Accordion - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion({
+      active: false,
+      collapsible: true,
+      heightStyle: "content"
+    });
+  } );
+  </script>
+  <style>
+
+  #ui-id-2 {
+    display: flex;
+    height: flex;
+}
+  </style>
+</head>
+<body>
+
+ <div style="padding:10px">
+  {{ if eq (gt .Page.Params.rating 0) (le .Page.Params.rating 39) }}
+  <div class="container-rating" style = "background-color:red;">
+  <div class="centered rating-text">{{.Page.Params.rating}}</div>
+  {{ else if eq (gt .Page.Params.rating 39) (le .Page.Params.rating 59) }}
+  <div class="container-rating" style = "background-color:orange;">
+  <div class="centered rating-text">{{.Page.Params.rating}}</div>
+  {{ else if eq (gt .Page.Params.rating 59) (le .Page.Params.rating 79) }}
+  <div class="container-rating" style = "background-color:yellow;">
+  <div class="centered rating-text">{{.Page.Params.rating}}</div>
+  {{ else if eq (gt .Page.Params.rating 79) (le .Page.Params.rating 100) }}
+  <div class="container-rating" style = "background-color:green;">
+  <div class="centered rating-text">{{.Page.Params.rating}}</div>
+  {{ else }}
+<!-- No Score -->
+    {{ end }}
+  </div>
+  </div>
+
+
+<div id="accordion">
+  <h3>Abstract: {{ .Page.Params.ratings.abstract }}/4</h3>
+  <div class="wrapper">
+    <div class="box1">
+      <h3>Abstract</h3>
+      <p>How well are the key findings summarized in a narrative form?</p>
+    </div>
+    <div class="box2">{{ .Page.Params.ratings.abstract }}</div>
+  </div>
+  <h3>Introduction: {{ add .Page.Params.ratings.previous_studies .Page.Params.ratings.res_question }}/8</h3>
+  <div>
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Previous Studies</h3>
+        <p>How thoroughly are the relevant contemporary studies summarized? Is their relevance explained?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.previous_studies }}</div>
+    </div>
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Research question</h3>
+        <p>Is the focal research question clearly laid out in the introduction?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.res_question }}</div>
+    </div>
+  </div>
+  <h3>Method: {{ add (add .Page.Params.ratings.sampling .Page.Params.ratings.conditions) .Page.Params.ratings.procedure}}/12</h3>
+  <div>
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Sampling</h3>
+        <p>How well are the sampling specifications stated?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.sampling }}</div>
+    </div>
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Conditions</h3>
+        <p>How explicitly is the design stated? Are the resulting conditions listed and described?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.conditions }}</div>
+    </div>
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Procedure</h3>
+        <p>How thoroughly is the procedure described?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.procedure }}</div>
+    </div>
+
+  </div>
+  <h3>Results: {{ add .Page.Params.ratings.analytic_strategy .Page.Params.ratings.analytic_strategy}}/8</h3>
+  <div   style="height:flex">
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Analytic Strategy</h3>
+        <p>How well is the analytic strategy described?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.analytic_strategy }}</div>
+    </div>
+    <div class="wrapper">
+      <div class="box1">
+        <h3>Analyses Output</h3>
+        <p>How well are the results of the statistical analyses described?</p>
+      </div>
+      <div class="box2">{{ .Page.Params.ratings.analytic_strategy }}</div>
+    </div>
+  </div>
+  <h3>Discussion: {{ add (add (add .Page.Params.ratings.hypothesis .Page.Params.ratings.relation) .Page.Params.ratings.limitations) .Page.Params.ratings.implications}}/16</h3>
+  <div>
+      <div class="wrapper">
+        <div class="box1">
+          <h3>Hypotheses</h3>
+          <p>How well do the authors articulate whether the data supported the hypotheses or not?</p>
+        </div>
+        <div class="box2">{{ .Page.Params.ratings.hypothesis }}</div>
+      </div>
+      <div class="wrapper">
+        <div class="box1">
+          <h3>Relation to other studies</h3>
+          <p>How well are the results discussed in the context of relevant contemporary studies?</p>
+        </div>
+        <div class="box2">{{ .Page.Params.ratings.relation }}</div>
+      </div>
+      <div class="wrapper">
+        <div class="box1">
+          <h3>Limitations</h3>
+          <p>Are the limitations of the paper discussed in sufficient detail?</p>
+        </div>
+        <div class="box2">{{ .Page.Params.ratings.limitations }}</div>
+      </div>
+      <div class="wrapper">
+        <div class="box1">
+          <h3>Implications</h3>
+          <p>Are the implications sufficiently explored?</p>
+        </div>
+        <div class="box2">{{ .Page.Params.ratings.implications }}</div>
+      </div>
+  </div>
+</div>
