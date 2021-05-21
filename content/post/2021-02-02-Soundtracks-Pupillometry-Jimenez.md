@@ -8,7 +8,7 @@ categories:
 tags:
 - Music
 - Cognitive Psychology
-thumbnail:
+thumbnail: 
 rating: "79"
 summary: The authors present the main findings and discuss their implications. However,
   they do not provide an explicit statement about whether each of their five hypotheses
@@ -27,33 +27,31 @@ summary: The authors present the main findings and discuss their implications. H
   research.
 
 ---
-Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
+Note: The review was conducted using reviewing guideline v0.1. ResearchHub helped this reviewing process. The review is also available on the [ResearchHub](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry) website.
 
 # Review Rubric
 
-| Section                              | Item                                  |  Rating (out of 4)|
-|---------------------------------------|------------------------------------------------------------------------------------------------|---|
-| **Abstract**                              | How well are the key findings summarized in a narrative form?                                  |   3|
-| **Introduction** |
-|  - Previous studies        | How thoroughly are the relevant contemporary studies summarized? Is their relevance explained? |   4|
-| - Research question       | Is the focal research question clearly laid out in the introduction?                           |   2|
-| **Method** |
-| - Sampling (overall)            | How well are the sampling specifications stated?                                               |   3|
-| - Conditions                    | How explicitly is the design stated? Are the resulting conditions listed and described?        |   3|
-| - Procedure                     | How thoroughly is the procedure described?                                                     |   3|
-| **Results** |
-| - Analytic strategy            | How well is the analytic strategy described?                                                   |   4|
-| - Analyses output              | How well are the results of the statistical analyses described?                                |   4|
-| **Discussion** |
-| - Hypotheses                | How well do the authors articulate whether the data supported the hypotheses or not?           |   2|
-| - Relation to other studies | How well are the results discussed in the context of relevant contemporary studies?            |   3|
-| - Limitations               | Are the limitations of the paper discussed in sufficient detail?                               |   4|
-| - Implications              | Are the implications sufficiently explored?                                                    |   3|
-|               |                                                   **Overall** |   38/48|
-
+| Section | Item | Rating (out of 4) |
+| --- | --- | --- |
+| Abstract | How well are the key findings summarized in a narrative form? | 3 |
+| Introduction |  |  |
+| - Previous studies | How thoroughly are the relevant contemporary studies summarized? Is their relevance explained? | 4 |
+| - Research question | Is the focal research question clearly laid out in the introduction? | 2 |
+| Method |  |  |
+| - Sampling (overall) | How well are the sampling specifications stated? | 3 |
+| - Conditions | How explicitly is the design stated? Are the resulting conditions listed and described? | 3 |
+| - Procedure | How thoroughly is the procedure described? | 3 |
+| Results |  |  |
+| - Analytic strategy | How well is the analytic strategy described? | 4 |
+| - Analyses output | How well are the results of the statistical analyses described? | 4 |
+| Discussion |  |  |
+| - Hypotheses | How well do the authors articulate whether the data supported the hypotheses or not? | 2 |
+| - Relation to other studies | How well are the results discussed in the context of relevant contemporary studies? | 3 |
+| - Limitations | Are the limitations of the paper discussed in sufficient detail? | 4 |
+| - Implications | Are the implications sufficiently explored? | 3 |
+|  | Overall | 38/48 |
 
 # Review
-
 
 The abstract clearly describes the main findings of the two studies reported. However, the authors could have been more concise in describing their findings and could have provided more details about the rationale for their studies, the hypotheses, and the experimental design.
 
