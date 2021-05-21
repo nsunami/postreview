@@ -8,42 +8,37 @@ categories:
 tags:
 - Music
 - Cognitive Psychology
-thumbnail:
-
+thumbnail: 
 summary: Implications are vaguely added within the conclusion of the study. It blurs
   the accurate and tough description of the study’s conclusion. This fails to elicit
   critical thoughts and overview about the possibilities for future programs and policies
   with the directions all the variables investigation of the study possibly suggest.
   No recommendations are accurately perceived.
-# Ratings
-## Rubric Settings
-rubric_version: 1
-rating_min: 1
-rating_max: 4
-rating_total_max: 48
-## Reviewer Scores
+rubric_version: "1"
+rating_min: "1"
+rating_max: "4"
+rating_total_max: "48"
 rating: "79"
-
 ratings:
-  abstract: 3
-  previous_studies: 3
-  res_question: 4
-  sampling: 3
-  conditions: 4
-  procedure: 3
-  analytic_strategy: 4
-  analysis_output: 4
-  hypothesis: 2
-  relation: 3
-  limitations: 4
-  implications: 3
+  abstract: "3"
+  previous_studies: "3"
+  res_question: "4"
+  sampling: "3"
+  conditions: "4"
+  procedure: "3"
+  analytic_strategy: "4"
+  analysis_output: "4"
+  hypothesis: "2"
+  relation: "3"
+  limitations: "4"
+  implications: "3"
+
 ---
-Note: The review was conducted using reviewing guideline X. ResearchHub helped this reviewing process. The review is also available on the ResearchHub website ([link](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry))
+Note: The review was conducted using reviewing guideline v0.1. ResearchHub helped this reviewing process. The review is also available on the [ResearchHub](https://www.researchhub.com/paper/874558/how-soundtracks-shape-what-we-see-analyzing-the-influence-of-music-on-visual-scenes-through-self-assessment-eye-tracking-and-pupillometry).
 
 # PostReview Score
 
 {{< review-table >}}
-
 
 # Review
 
