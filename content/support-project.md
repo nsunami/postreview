@@ -7,6 +7,6 @@ tags:
 thumbnail: 
 
 ---
-Support PostReview by submitting a review of an article
+Support PostReview by [submitting](https://postreview.org/submit-review/) a review of an article
 
 ![](/uploads/bernie-postreview.png)
