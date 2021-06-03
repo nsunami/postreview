@@ -103,6 +103,11 @@
   text-align: center;
 }
 
+.box2:after {
+  font-size: 1rem;
+  content: "/4"
+}
+
 .ratingheading {
   font-size: 150%;
 }
