@@ -17,6 +17,12 @@
   color: white;
   height: 200px;
   width:200px;
+  margin: auto;
+}
+
+/* rating outer */
+.rating-outer {
+  margin: auto
 }
 
 /* Bottom left text */

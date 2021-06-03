@@ -24,7 +24,7 @@
 </head>
 <body>
 
- <div style="padding:10px">
+ <div class = "rating-outer" style="padding:10px">
   {{ if eq (gt .Page.Params.rating 0) (le .Page.Params.rating 39) }}
   <div class="container-rating" style = "background-color:red;">
   <div class="centered rating-text">{{.Page.Params.rating}}</div>
