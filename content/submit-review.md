@@ -77,3 +77,5 @@ What are the questions you had while reading the paper? Please break down your q
 | 13 | Discussion: implications | Are the implications sufficiently explored? | Do the authors discuss the implications of the results for future research, programs, or policies? | Implications not mentioned | Implications are carefully and thoughtfully discussed |
 
 You can view the blank reviewing template here: [Reviewing Template](/review-template/)
+
+Download the [docx](/uploads/reviewing-guide-v0-2.docx) or [pdf](/uploads/reviewing-guide-v0-2.pdf) copy of the guidelines.
