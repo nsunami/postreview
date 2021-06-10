@@ -1,7 +1,7 @@
 ---
 title: 'Uncorking the muse: Alcohol intoxication facilitates creative problem solving'
 author: Anton Lebed
-date: 2021-10-06
+date: 2021-06-10
 categories:
 - Review
 tags:
@@ -10,18 +10,17 @@ tags:
 - Creativity
 - Attentional control
 - Remote Associate Test
-thumbnail: 
+thumbnail:
 rating: "85"
 summary:
-
 ---
+
 Below is the PostReview of paper titled "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
 
 DOI: [https://doi.org/10.1016/j.concog.2012.01.002](https://doi.org/10.1016/j.concog.2012.01.002 "https://doi.org/10.1016/j.concog.2012.01.002")
 
 # PostReview score - 85/100
 
-***
 
 # Digest of the Paper
 
