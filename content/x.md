@@ -1,11 +1,10 @@
 +++
 author = ["Anton Lebed", "Nami Sunami"]
-categories = ["Documentation"]
+categories = ["Review"]
 date = 2021-04-09T00:00:00Z
-draft = true
-tags = ["For Reviewers"]
+tags = ["Alcohol ", "Creativity", "Attentional Control", "Remote Associate Test"]
 thumbnail = nil
-title = "x"
+title = "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
 
 +++
 Below is the PostReview of paper titled "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
