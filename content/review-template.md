@@ -19,7 +19,7 @@ DOI: X
 
 ***
 
-# Digest of the Paper
+## Digest of the Paper
 
 #### Question
 
@@ -37,11 +37,11 @@ X
 
 X
 
-## Verdict
+## Strong and weak points 
 
 X
 
-# Forward Thinking Questions
+## Forward Thinking Questions
 
 #### Conceptual questions
 
