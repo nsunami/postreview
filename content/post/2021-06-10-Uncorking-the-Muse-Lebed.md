@@ -1,12 +1,20 @@
-+++
-author = ["Anton Lebed", "Nami Sunami"]
-categories = ["Review"]
-date = 2021-04-09T00:00:00Z
-tags = ["Alcohol ", "Creativity", "Attentional Control", "Remote Associate Test"]
-thumbnail = nil
-title = "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
+---
+title: 'Uncorking the muse: Alcohol intoxication facilitates creative problem solving'
+author: Anton Lebed
+date: 2021-10-06
+categories:
+- Review
+tags:
+- Psychology
+- Alcohol
+- Creativity
+- Attentional control
+- Remote Associate Test
+thumbnail: 
+rating: "85"
+summary:
 
-+++
+---
 Below is the PostReview of paper titled "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
 
 DOI: [https://doi.org/10.1016/j.concog.2012.01.002](https://doi.org/10.1016/j.concog.2012.01.002 "https://doi.org/10.1016/j.concog.2012.01.002")
