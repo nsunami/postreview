@@ -10,7 +10,7 @@ tags:
 - Creativity
 - Attentional control
 - Remote Associate Test
-thumbnail:
+thumbnail: 
 rating: "85"
 summary: The authors present the main findings and discuss their implications. However,
   they do not provide an explicit statement about whether each of their five hypotheses
@@ -27,8 +27,8 @@ summary: The authors present the main findings and discuss their implications. H
   scene. They also emphasize how they have solved some of the problems previously
   identified by other authors in the literature and provide new directions for future
   research.
----
 
+---
 Below is the PostReview of paper titled "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
 
 DOI: [https://doi.org/10.1016/j.concog.2012.01.002](https://doi.org/10.1016/j.concog.2012.01.002 "https://doi.org/10.1016/j.concog.2012.01.002")
@@ -36,7 +36,7 @@ DOI: [https://doi.org/10.1016/j.concog.2012.01.002](https://doi.org/10.1016/j.co
 # PostReview score - 85/100
 
 
-# Digest of the Paper
+## Digest of the Paper
 
 #### Question
 
@@ -56,13 +56,13 @@ It seems, however, that these results were not due to impaired working memory du
 
 The results are of extreme import to the society. Many outstanding individuals in the human history achieve scientific or cultural breakthroughs in insightful manner – the solution to a problem they were struggling to solve simply came to them without any immediate effort. Performance of many such individuals (e.g. Beethoven, Poe, Socrates) has been linked to alcohol or other substances use. The current article provides the first empirical demonstration of the connection between alcohol intake and creative performance.
 
-## Verdict
+## Strong and weak points 
 
 The strongest part of the paper is the description of the procedure the authors have conducted. Alcohol intoxication studies can be problematic to conduct due to high ethical and procedural standards. The specifics of the alcohol administration procedure, as well as the description and rationale for all used measures are explicitly spelled out in the article.
 
 The weakest part of the paper is arguably the report of the statistical analyses. The authors seem to sometimes process the data in such a way that it benefits the narrative (e.g. splitting the insightfulness rating into high and low subscores because the average score did not reveal significant differences).
 
-# Forward Thinking Questions
+## Forward Thinking Questions
 
 #### Conceptual questions
 
@@ -89,3 +89,5 @@ It would be really interesting to take a look of the secondary data that the aut
 | 11 | Discussion: relation to other studies | How well are the results discussed in the context of relevant contemporary studies? | Do the authors discuss the similarities and differences between reported results and other work in the field? | 7 |
 | 12 | Discussion: limitations | Are the limitations of the paper discussed in sufficient detail? | Do the authors discuss the limitations of their study? What would they do differently in the ideal circumstances if they had a chance? | 4 |
 | 13 | Discussion: implications | Are the implications sufficiently explored? | Do the authors discuss the implications of the results for future research, programs, or policies? | 5 |
+
+Total score: 77/91
