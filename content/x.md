@@ -8,9 +8,9 @@ thumbnail = nil
 title = "x"
 
 +++
-Below is the PostReview of paper titled X
+Below is the PostReview of paper titled "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
 
-DOI: X
+DOI: [https://doi.org/10.1016/j.concog.2012.01.002](https://doi.org/10.1016/j.concog.2012.01.002 "https://doi.org/10.1016/j.concog.2012.01.002")
 
 # PostReview score - x/100
 
@@ -20,33 +20,37 @@ DOI: X
 
 #### Question
 
-X
+The authors are testing the hypothesis that alcohol intake increased creative problem-solving ability. They anticipated that intoxicated would score less on the measurements of working memory, would solve more creative problems (Remote Associate Task) and that they will experience more sudden solutions known as insight.
 
 #### Rationale
 
-X
+Numerous previous studies suggested that while alcohol intoxication impedes analytic abilities, it seems to facilitate divergent thinking relying on processing the peripheral information, distant associations and diffuse attentional states. Creative problems often require thinking outside of the boundaries of the task and overcoming the erroneous focus on early guesses and alcohol intake seems to be beneficial to this.
 
 #### Results
 
-X
+The authors found that, indeed, intoxicated participants experienced more vivid instances of sudden insight solutions (5 or higher on a 7-point scale) compared to sober controls. They also solved more problems overall and it took them less time.
+
+It seems, however, that these results were not due to impaired working memory due to intoxication: although intoxicated participants did not improve over time on the working memory test (unlike sober participants), their scores did not decrease either, so the effect seems to be driven by some other aspect of the inhibited control.
 
 #### Conclusion & implications
 
-X
+The results are of extreme import to the society. Many outstanding individuals in the human history achieve scientific or cultural breakthroughs in insightful manner – the solution to a problem they were struggling to solve simply came to them without any immediate effort. Performance of many such individuals (e.g. Beethoven, Poe, Socrates) has been linked to alcohol or other substances use. The current article provides the first empirical demonstration of the connection between alcohol intake and creative performance.
 
 ## Verdict
 
-X
+The strongest part of the paper is the description of the procedure the authors have conducted. Alcohol intoxication studies can be problematic to conduct due to high ethical and procedural standards. The specifics of the alcohol administration procedure, as well as the description and rationale for all used measures are explicitly spelled out in the article.
+
+The weakest part of the paper is arguably the report of the statistical analyses. The authors seem to sometimes process the data in such a way that it benefits the narrative (e.g. splitting the insightfulness rating into high and low subscores because the average score did not reveal significant differences).
 
 # Forward Thinking Questions
 
 #### Conceptual questions
 
-X
+Given that results suggest that alcohol does not specifically decrease working memory – how much of the results can be explained by alcohol lowering the inhibitions in general? For example, would we expect to see a similar increase in creative performance if participants were to be put in a scenario where none of the usual norms and restrictions apply (akin to movie “The Purge”)?
 
 #### Method questions
 
-X
+It would be really interesting to take a look of the secondary data that the authors likely have access to but they were out of the scope of the current study. For example, the incorrect solutions – were there more false alarms in the intoxicated group, were sober participants more reluctant to say the answer out loud because they are unsure if it is correct?
 
 # Quantitative assessment
 
