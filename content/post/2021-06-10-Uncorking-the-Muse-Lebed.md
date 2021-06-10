@@ -35,12 +35,11 @@ DOI: [https://doi.org/10.1016/j.concog.2012.01.002](https://doi.org/10.1016/j.co
 
 # PostReview score - 85/100
 
-
 ## Digest of the Paper
 
 #### Question
 
-The authors are testing the hypothesis that alcohol intake increased creative problem-solving ability. They anticipated that intoxicated would score less on the measurements of working memory, would solve more creative problems (Remote Associate Task) and that they will experience more sudden solutions known as insight.
+The authors are testing the hypothesis that alcohol intake increased creative problem-solving ability. They anticipated that intoxicated participants would score less on the measurements of working memory, would solve more creative problems (Remote Associate Task) and that they will experience more sudden solutions known as insight.
 
 #### Rationale
 
@@ -56,7 +55,7 @@ It seems, however, that these results were not due to impaired working memory du
 
 The results are of extreme import to the society. Many outstanding individuals in the human history achieve scientific or cultural breakthroughs in insightful manner – the solution to a problem they were struggling to solve simply came to them without any immediate effort. Performance of many such individuals (e.g. Beethoven, Poe, Socrates) has been linked to alcohol or other substances use. The current article provides the first empirical demonstration of the connection between alcohol intake and creative performance.
 
-## Strong and weak points 
+## Strong and weak points
 
 The strongest part of the paper is the description of the procedure the authors have conducted. Alcohol intoxication studies can be problematic to conduct due to high ethical and procedural standards. The specifics of the alcohol administration procedure, as well as the description and rationale for all used measures are explicitly spelled out in the article.
 
