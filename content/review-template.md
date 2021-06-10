@@ -68,3 +68,4 @@ X
 | 11 | Discussion: relation to other studies | How well are the results discussed in the context of relevant contemporary studies? | Do the authors discuss the similarities and differences between reported results and other work in the field? | X |
 | 12 | Discussion: limitations | Are the limitations of the paper discussed in sufficient detail? | Do the authors discuss the limitations of their study? What would they do differently in the ideal circumstances if they had a chance? | X |
 | 13 | Discussion: implications | Are the implications sufficiently explored? | Do the authors discuss the implications of the results for future research, programs, or policies? | X |
+Total: X / 91
