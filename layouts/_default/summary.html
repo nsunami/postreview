@@ -9,7 +9,7 @@
     </div>
     {{ else if eq (gt .Params.rating 39) (le .Params.rating 59) }}
     <div class="container-rating">
-      <div class="container-rating" style = "background-color:orange;">
+    <div class="container-rating" style = "background-color:orange;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
     {{ else if eq (gt .Params.rating 59) (le .Params.rating 79) }}
@@ -17,15 +17,13 @@
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
     {{ else if eq (gt .Params.rating 79) (le .Params.rating 100) }}
-    <div class="container-rating">
-      <div class="container-rating" style = "background-color:green;">
+    <div class="container-rating" style = "background-color:green;">
     <div class="centered rating-text">{{.Params.rating}}</div>
     </div>
     {{ else }}
     <img alt="thumbnail" id="thumb" class="lg:{{ .Site.Params.post.thumbnail_width }} lg:{{ .Site.Params.post.thumbnail_height }}" src="{{ "/img/default.jpg" | relURL }}">
     {{ end }}
-    <div
-        class="bg-white pl-4 p-2 justify-between leading-normal max-w-full w-full">
+    <div class="bg-white pl-4 p-2 justify-between leading-normal max-w-full w-full">
             <p class="text-sm text-gray-600 flex items-center">
                 <time><span class="icon-access_time mr-1"></span>{{.Date.Format "2006/01/02"}}</time>
             </p>
