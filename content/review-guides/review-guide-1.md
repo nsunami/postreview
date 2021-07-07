@@ -8,7 +8,7 @@ categories:
 - Documentation
 tags:
 - For Reviewers
-thumbnail: 
+thumbnail:
 
 ---
 Below is the PostReview of paper titled X
@@ -37,7 +37,7 @@ X
 
 X
 
-## Strong and weak points 
+## Strong and weak points
 
 X
 
