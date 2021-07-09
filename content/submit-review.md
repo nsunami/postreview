@@ -8,7 +8,7 @@ categories:
 - Documentation
 tags:
 - For Reviewers
-thumbnail: 
+thumbnail:
 
 ---
 Please submit a post-review use this link: https://forms.gle/duaU1KifW3KGCGCKA
@@ -18,4 +18,4 @@ Download a [docx](/uploads/reviewing-guide-v0-2.docx) or [pdf](/uploads/reviewin
 # Previous Review Guides
 
 * [Version 0.2 (Current)](/uploads/reviewing-guide-v0-2.pdf)
-* [Version 0.1](https://app.forestry.io/sites/ohm6gpw1ucd5rg/body-media//uploads/reviewing-guide-v0-1.pdf)
+* [Version 0.1](/uploads/reviewing-guide-v0-2.pdf)
