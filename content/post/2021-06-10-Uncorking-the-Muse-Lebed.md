@@ -12,7 +12,7 @@ tags:
 - Remote Associate Test
 thumbnail: 
 rating: "85"
-summary: ''
+summary: Alcohol intoxication improves creative problem-solving.
 
 ---
 Below is the PostReview of paper titled "Uncorking the muse: Alcohol intoxication facilitates creative problem solving"
