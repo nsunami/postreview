@@ -1,5 +1,6 @@
 ---
-title: "Gaming for peace: Virtual contact through cooperative video gaming increases children's intergroup tolerance in the context of the Israeli–Palestinian conflict"
+title: 'Gaming for peace: Virtual contact through cooperative video gaming increases
+  children''s intergroup tolerance in the context of the Israeli–Palestinian conflict'
 author: Nami Sunami
 date: 2021-07-02
 categories:
@@ -10,44 +11,37 @@ tags:
 - Cooperation
 - Minecraft
 - Children
-thumbnail:
-rating: "85"
-summary: "This study demonstrates a potential of using a cooperative video game to reduce prejudice among members of hostile groups."
+thumbnail: 
+rating: "86"
+summary: This study demonstrates a potential of using a cooperative video game to
+  reduce prejudice among members of hostile groups.
+
 ---
 Below is the PostReview of paper titled "Gaming for peace: Virtual contact through cooperative video gaming increases children's intergroup tolerance in the context of the Israeli–Palestinian conflict"
 
 DOI: [10.1016/j.jesp.2020.104065](https://doi.org/10.1016/j.jesp.2020.104065)
 
-# PostReview score - 85/100
+# PostReview score - 86/100
 
 ## Digest of the Paper
 
 #### Question
 
-
 Does playing a cooperative video game together with a member of a hostile outgroup increase tolerance to the outgroup? The authors predicted that playing Minecraft cooperatively with an outgroup member over time increases tolerance to the outgroup among children, in the Israeli-Palestinian conflict context.
-
 
 #### Rationale
 
-
 The intergroup contact model suggests that the more people interact with the outgroups, the more they will be able to understand and accept each other (Allport). Cooperative video games provide an opportunity for indirect contact since the communication is mediated by a computer. In mediated interactions in a video game, players experience less negative emotions (e.g., less anxiety; less social cues to be distracted) than face-to-face interactions.
-
 
 #### Results
 
-
 Jewish-Israels and Palestine-Israels children (6th grade) who played Minecraft with outgroup members over time (6 virtual and 2 face-to-face sessions) reported lower prejudice, more positive outgroup characteristics, less negative outgroup characteristics, less stereotyping, less negative expectations on behavior, and more willingness for social contact compared with those who played with in-group members. This effect persisted for 6 months in all measures, except the negative outgroup characteristics measure.
-
 
 #### Conclusion & implications
 
-
 Improving intergroup relations between the hostile groups is important for maintaining peace, especially conflict zones. The current study demonstrates that playing a video game (Minecraft) cooperatively with outgroup members could be a way to improve intergroup relations in a highly hostile context.
 
-
 ## Strong and weak points
-
 
 The strongest part of the paper for me is its practical relevance. The paper clearly demonstrates the usefulness of video game as a space for intergroup interactions to decrease prejudice and increase positive relations.
 
@@ -55,18 +49,15 @@ The weakest parts of the paper were sample size and potential bias coming from n
 
 I was unsure if the research staff and participants were blinded in the experiments. For example, the staff treat the students in the experimental condition differently than those in the control condition. Also, the students in the experimental condition learn that the other students are in the control condition, which then affected people’s evaluations (e.g., via self-fulfilling prophecy).
 
-
 ## Forward Thinking Questions
 
 #### Conceptual questions
 
 How much do the current results extend to the adult population? I can expect that the current results could generalize to the adult population based on the mediated contact hypothesis. However, I can also expect that adult participants are more likely to experience negative emotions in intergroup contacts, and thus they may withdraw from the interactions (as suggested by the aversive racism theory).
 
-
 #### Method questions
 
 I am curious to know whether the power analysis was conducted before collection of data.  I’d appreciate a registration on this point.
-
 
 # Quantitative assessment
 
