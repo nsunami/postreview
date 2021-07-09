@@ -28,9 +28,9 @@ DOI: [https://doi.org/10.1177%2F0956797619873344](https://doi.org/10.1177%2F0956
 
 ## Strong and weak points
 
-The strongest part of the paper
+The strongest part of the paper is its methodology. The authors have implemented a very sophisticated and demanding procedure that allowed them to achieve a very unusual goal - to direct the mental activity of a person that is not fully conscious.  
 
-The weakest part of the paper 
+The weakest part of the paper potentially lies in the design. As it stands now there is no way to disambiguate the effect of sleep from the effect of delayed cueing. In other words, one could speculate that if participants were reminded of the unsolved problems (via sound cues) during the wakeful hours (e.g. in the evening after the first session) - they would have had similar boost in the solution rate next day. Adding the wakeful cueing control condition in the follow-up studies would allows us to disambiguate these 2 effects.
 
 ## Forward Thinking Questions
 
