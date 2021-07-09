@@ -13,7 +13,7 @@ thumbnail:
 ---
 Please submit a post-review use this link: https://forms.gle/duaU1KifW3KGCGCKA
 
-Download a [docx](/uploads/reviewing-guide-v0-2.docx) or [pdf](/uploads/reviewing-guide-v0-2.pdf) copy of the guidelines.
+Download a [docx](/uploads/reviewing-guide-v0-2.docx) or [pdf](/uploads/reviewing-guide-v0-2.pdf) copy of the current guidelines.
 
 # Previous Review Guides
 
