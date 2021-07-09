@@ -20,23 +20,35 @@ DOI: [https://doi.org/10.1177%2F0956797619873344](https://doi.org/10.1177%2F0956
 
 #### Question
 
+The authors' goal was to verify the claim that sleep can help one to solve a hard problem they are working on. They hypothesized that if an unsolved task is paired with a sound through association first - this sound can later be used as a cue to remind the dreaming person about the task. They expected this to improve the rate of solutions after the participants wake up and attempt to solve the problem once again.
+
 #### Rationale
+
+Previous studies have suggested that the creative problem-solving process often requires incubation - a period of time spent without working on a problem during which the mental structure of the problem space is unconsciously reorganized. Other studies point in the direction that sleep is crucial in memory reorganization and consolidation and there is some evidence that sleeping can spark creativity.
 
 #### Results
 
+Results focus on the solution rate of the problems that participants failed to solve during the first session and attempted to solve during the second session the next day. Half of these problems participants were reminded of during their sleep between session one and session two, while the other half weren't. Results show that participants solved 31.7% of the cued problems while solving only 20.5% of the uncued problems. Participants, however, had a similar rate of recollection of both the cued and uncued problems. 
+
 #### Conclusion & implications
+
+The societal value of creative problem-solving cannot be underestimated, since people are always seeking ways to generate more and better ideas. The authors have obtained some evidence suggesting that one efficient strategy to amplify one's creative performance in a situation of impasse is to take a pause in the form of sleep and attempt again the next day. 
 
 ## Strong and weak points
 
-The strongest part of the paper is its methodology. The authors have implemented a very sophisticated and demanding procedure that allowed them to achieve a very unusual goal - to direct the mental activity of a person that is not fully conscious.  
+The strongest part of the paper is its methodology. The authors have implemented a very sophisticated and demanding procedure that allowed them to achieve a very unusual goal - to direct the mental activity of a person that is not fully conscious.
 
-The weakest part of the paper potentially lies in the design. As it stands now there is no way to disambiguate the effect of sleep from the effect of delayed cueing. In other words, one could speculate that if participants were reminded of the unsolved problems (via sound cues) during the wakeful hours (e.g. in the evening after the first session) - they would have had similar boost in the solution rate next day. Adding the wakeful cueing control condition in the follow-up studies would allows us to disambiguate these 2 effects.
+The weakest part of the paper potentially lies in the design. As it stands now there is no way to disambiguate the effect of sleep from the effect of delayed cueing. In other words, one could speculate that if participants were reminded of the unsolved problems (via sound cues) during the wakeful hours (e.g. in the evening after the first session) - they would have had a similar boost in the solution rate the next day. Adding the wakeful cueing control condition in the follow-up studies would allow us to disambiguate these 2 effects.
 
 ## Forward Thinking Questions
 
 #### Conceptual questions
 
+Would there be any hypothetical situations when sleeping is detrimental to creative problem-solving? If the mechanism through which sleep helps solve the unfinished problem is through memory reorganization - would that mean that in cases when the solver was very close to finding the solution (hence, was on the right mental track) - losing this track through sleep could actually lead into impasse?
+
 #### Method questions
+
+How reliable is the method the authors used to establish the current sleep phase? Is it equally reliable when establishing the Slow-Wave Sleep and Rapid Eye Movement sleep?
 
 # Quantitative assessment
 
