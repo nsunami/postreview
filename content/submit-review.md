@@ -18,4 +18,4 @@ Download a [docx](/uploads/reviewing-guide-v0-2.docx) or [pdf](/uploads/reviewin
 # Previous Review Guides
 
 * [Version 0.2 (Current)](/uploads/reviewing-guide-v0-2.pdf)
-* [Version 0.1](/uploads/reviewing-guide-v0-2.pdf)
+* [Version 0.1](/uploads/reviewing-guide-v0-1.pdf)
