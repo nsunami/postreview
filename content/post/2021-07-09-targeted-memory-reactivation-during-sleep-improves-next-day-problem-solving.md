@@ -1,13 +1,11 @@
 +++
 author = "Anton Lebed"
 categories = ["Review"]
-date = 2021-06-10T00:00:00Z
+date = 2021-07-09
 rating = "92"
 summary = "Reminding of unsolved problems during sleeping improves creative problem-solving."
 tags = ["Psychology", "Creativity", "Sleep", "Problem-solving"]
-thumbnail = nil
 title = "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving"
-
 +++
 Below is the PostReview of a paper titled "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving"
 
@@ -27,11 +25,11 @@ Previous studies have suggested that the creative problem-solving process often 
 
 #### Results
 
-Results focus on the solution rate of the problems that participants failed to solve during the first session and attempted to solve during the second session the next day. Half of these problems participants were reminded of during their sleep between session one and session two, while the other half weren't. Results show that participants solved 31.7% of the cued problems while solving only 20.5% of the uncued problems. Participants, however, had a similar rate of recollection of both the cued and uncued problems. 
+Results focus on the solution rate of the problems that participants failed to solve during the first session and attempted to solve during the second session the next day. Half of these problems participants were reminded of during their sleep between session one and session two, while the other half weren't. Results show that participants solved 31.7% of the cued problems while solving only 20.5% of the uncued problems. Participants, however, had a similar rate of recollection of both the cued and uncued problems.
 
 #### Conclusion & implications
 
-The societal value of creative problem-solving cannot be underestimated, since people are always seeking ways to generate more and better ideas. The authors have obtained some evidence suggesting that one efficient strategy to amplify one's creative performance in a situation of impasse is to take a pause in the form of sleep and attempt again the next day. 
+The societal value of creative problem-solving cannot be underestimated, since people are always seeking ways to generate more and better ideas. The authors have obtained some evidence suggesting that one efficient strategy to amplify one's creative performance in a situation of impasse is to take a pause in the form of sleep and attempt again the next day.
 
 ## Strong and weak points
 
